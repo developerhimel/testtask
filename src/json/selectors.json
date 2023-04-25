@@ -1,0 +1,350 @@
+[
+  {
+    "value": "Manufacturing",
+    "title": "Manufacturing",
+    "children": [
+      {
+        "value": "Construction materials",
+        "title": "Construction materials"
+      },
+      {
+        "value": "Electronics and Optics",
+        "title": "Electronics and Optics"
+      },
+      {
+        "value": "Food and Beverage",
+        "title": "Food and Beverage",
+        "children": [
+          {
+            "value": "Bakery confectionery products",
+            "title": "Bakery confectionery products"
+          },
+          {
+            "value": "Beverages",
+            "title": "Beverages"
+          },
+          {
+            "value": "Fish fish products",
+            "title": "Fish fish products"
+          },
+          {
+            "value": "Meat meat products",
+            "title": "Meat meat products"
+          },
+          {
+            "value": "Milk dairy products",
+            "title": "Milk dairy products"
+          },
+          {
+            "value": "Other (Food and Beverage)",
+            "title": "Other (Food and Beverage)"
+          },
+          {
+            "value": "Sweets & snack food",
+            "title": "Sweets & snack food"
+          }
+        ]
+      },
+      {
+        "value": "Furniture",
+        "title": "Furniture",
+        "children": [
+          {
+            "value": "Bathroom/sauna",
+            "title": "Bathroom/sauna"
+          },
+          {
+            "value": "Bedroom",
+            "title": "Bedroom"
+          },
+          {
+            "value": "childrens room",
+            "title": "childrens room"
+          },
+          {
+            "value": "Kitchen",
+            "title": "Kitchen"
+          },
+          {
+            "value": "Living room",
+            "title": "Living room"
+          },
+          {
+            "value": "Office",
+            "title": "Office"
+          },
+          {
+            "value": "Other (Furniture)",
+            "title": "Other (Furniture)"
+          },
+          {
+            "value": "Outdoor",
+            "title": "Outdoor"
+          },
+          {
+            "value": "Project furniture",
+            "title": "Project furniture"
+          }
+        ]
+      },
+      {
+        "value": "Machinery",
+        "title": "Machinery",
+        "children": [
+          {
+            "value": "Machinery components",
+            "title": "Machinery components"
+          },
+          {
+            "value": "Machinery equipment/tools",
+            "title": "Machinery equipment/tools"
+          },
+          {
+            "value": "Manufacture of machinery",
+            "title": "Manufacture of machinery"
+          },
+          {
+            "value": "Maritime",
+            "title": "Maritime",
+            "children": [
+              {
+                "value": "Aluminium and steel workboats",
+                "title": "Aluminium and steel workboats"
+              },
+              {
+                "value": "Boat/Yacht building",
+                "title": "Boat/Yacht building"
+              },
+              {
+                "value": "Ship repair and conversion",
+                "title": "Ship repair and conversion"
+              }
+            ]
+          },
+          {
+            "value": "Metal structures",
+            "title": "Metal structures"
+          },
+          {
+            "value": "Other (Machinery)",
+            "title": "Other (Machinery)"
+          },
+          {
+            "value": "Repair and maintenance service",
+            "title": "Repair and maintenance service"
+          }
+        ]
+      },
+      {
+        "value": "Metalworking",
+        "title": "Metalworking",
+        "children": [
+          {
+            "value": "Construction of metal structures",
+            "title": "Construction of metal structures"
+          },
+          {
+            "value": "Houses and buildings",
+            "title": "Houses and buildings"
+          },
+          {
+            "value": "Metal products",
+            "title": "Metal products"
+          },
+          {
+            "value": "Metal works",
+            "title": "Metal works",
+            "children": [
+              {
+                "value": "CNC-machining",
+                "title": "CNC-machining"
+              },
+              {
+                "value": "Forgings",
+                "title": "Forgings"
+              },
+              {
+                "value": "Gas, Plasma, Laser cutting",
+                "title": "Gas, Plasma, Laser cutting"
+              },
+              {
+                "value": "MIG, TIG, Aluminum welding",
+                "title": "MIG, TIG, Aluminum welding"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "value": "Plastic and Rubber",
+        "title": "Plastic and Rubber",
+        "children": [
+          {
+            "value": "Packaging",
+            "title": "Packaging"
+          },
+          {
+            "value": "Plastic goods",
+            "title": "Plastic goods"
+          },
+          {
+            "value": "Plastic processing technology",
+            "title": "Plastic processing technology",
+            "children": [
+              {
+                "value": "Blowing",
+                "title": "Blowing"
+              },
+              {
+                "value": "Moulding",
+                "title": "Moulding"
+              },
+              {
+                "value": "Plastics welding and processing",
+                "title": "Plastics welding and processing"
+              }
+            ]
+          },
+          {
+            "value": "Plastic profiles",
+            "title": "Plastic profiles"
+          }
+        ]
+      },
+      {
+        "value": "Printing",
+        "title": "Printing",
+        "children": [
+          {
+            "value": "Advertising",
+            "title": "Advertising"
+          },
+          {
+            "value": "Book/Periodicals",
+            "title": "Book/Periodicals"
+          },
+          {
+            "value": "Labelling and packaging printing",
+            "title": "Labelling and packaging printing"
+          }
+        ]
+      },
+      {
+        "value": "Textile and Clothing",
+        "title": "Textile and Clothing",
+        "children": [
+          {
+            "value": "Clothing",
+            "title": "Clothing"
+          },
+          {
+            "value": "Textile",
+            "title": "Textile"
+          }
+        ]
+      },
+      {
+        "value": "Wood",
+        "title": "Wood",
+        "children": [
+          {
+            "value": "Other (Wood)",
+            "title": "Other (Wood)"
+          },
+          {
+            "value": "Wooden building materials",
+            "title": "Wooden building materials"
+          },
+          {
+            "value": "Wooden houses",
+            "title": "Wooden houses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "Other",
+    "title": "Other",
+    "children": [
+      {
+        "value": "Creative industries",
+        "title": "Creative industries"
+      },
+      {
+        "value": "Energy technology",
+        "title": "Energy technology"
+      },
+      {
+        "value": "Environment",
+        "title": "Environment"
+      }
+    ]
+  },
+  {
+    "value": "Service",
+    "title": "Service",
+    "children": [
+      {
+        "value": "Business services",
+        "title": "Business services"
+      },
+      {
+        "value": "Engineering",
+        "title": "Engineering"
+      },
+      {
+        "value": "Information Technology and Telecommunications",
+        "title": "Information Technology and Telecommunications",
+        "children": [
+          {
+            "value": "Data processing, Web portals, E-marketing",
+            "title": "Data processing, Web portals, E-marketing"
+          },
+          {
+            "value": "Programing, Consultancy",
+            "title": "Programing, Consultancy"
+          },
+          {
+            "value": "Software, Hardware",
+            "title": "Software, Hardware"
+          },
+          {
+            "value": "Telecommunications",
+            "title": "Telecommunications"
+          }
+        ]
+      },
+      {
+        "value": "Tourism",
+        "title": "Tourism"
+      },
+      {
+        "value": "Translation services",
+        "title": "Translation services"
+      },
+      {
+        "value": "Transport and Logistics",
+        "title": "Transport and Logistics",
+        "children": [
+          {
+            "value": "Air",
+            "title": "Air"
+          },
+          {
+            "value": "Rail",
+            "title": "Rail"
+          },
+          {
+            "value": "Road",
+            "title": "Road"
+          },
+          {
+            "value": "Water",
+            "title": "Water"
+          }
+        ]
+      }
+    ]
+  }
+]
