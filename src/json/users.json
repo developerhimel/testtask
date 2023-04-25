@@ -1,0 +1,15 @@
+{
+  "_id": { "$oid": "644724a3dd933b9257d91e0e" },
+  "userName": "Himel Roy",
+  "sectors": [
+    "Construction materials",
+    "Meat meat products",
+    "Bakery confectionery products",
+    "Milk dairy products",
+    "Machinery",
+    "Other (Furniture)",
+    "Clothing",
+    "Tourism",
+    "Metalworking"
+  ]
+}
